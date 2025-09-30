@@ -16,4 +16,4 @@ Bu projede **metot aşırı yükleme (overloading)**, **rekürsif fonksiyon kull
 - **Windows Forms**
 
 ## 📸 Ekran Görüntüsü
-görseller klasöründe çalıştırma ekran görüntülei mevcuttur.)  .
+görseller klasöründe çalıştırma ekran görüntüleri mevcuttur.)  .
