@@ -17,3 +17,4 @@ Bu projede **metot aşırı yükleme (overloading)**, **rekürsif fonksiyon kull
 
 ## 📸 Ekran Görüntüsü
 görseller klasöründe çalıştırma ekran görüntüleri mevcuttur.)  .
+GP-1 Görseli bu form tasarımıdır.
